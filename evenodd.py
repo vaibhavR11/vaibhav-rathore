@@ -1,4 +1,4 @@
-# check whether the number is odd or even, without using funtion calling
+# check whether the number is odd or even, without using function calling
 num = int(input("Enter a number :"))
 if num>=1 :
   if num % 2 == 0 :
